@@ -1,0 +1,38 @@
+[
+    {
+        "title": "Complete Python Project",
+        "description": "Finish the personal to-do list app",
+        "category": "Work",
+        "completed": true
+    },
+    {
+        "title": "Buy groceries",
+        "description": "Milk, Eggs, Bread, Butter",
+        "category": "Personal",
+        "completed": true
+    },
+    {
+        "title": "Pay electricity bill",
+        "description": "Pay before 5th to avoid late charges",
+        "category": "Urgent",
+        "completed": true
+    },
+    {
+        "title": "Drink 5 litres water",
+        "description": "",
+        "category": "Personal",
+        "completed": true
+    },
+    {
+        "title": "wake up at 5 am",
+        "description": "",
+        "category": "Personal",
+        "completed": false
+    },
+    {
+        "title": "Preparing for ICET",
+        "description": "",
+        "category": "Personal",
+        "completed": false
+    }
+]
